@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>y4FlipBoth_1338.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\y4FlipBoth_1338.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cuatrimoto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>67</ymin>
+			<xmax>440</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
