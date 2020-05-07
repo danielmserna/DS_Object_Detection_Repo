@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>g8FlipBoth_780.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\g8FlipBoth_780.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>150</ymin>
+			<xmax>476</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

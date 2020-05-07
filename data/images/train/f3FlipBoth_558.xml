@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>f3FlipBoth_558.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\f3FlipBoth_558.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>177</ymin>
+			<xmax>402</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

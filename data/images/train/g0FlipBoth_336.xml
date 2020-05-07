@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>g0FlipBoth_336.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\g0FlipBoth_336.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>138</ymin>
+			<xmax>442</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>
