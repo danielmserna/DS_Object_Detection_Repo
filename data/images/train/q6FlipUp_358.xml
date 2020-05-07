@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6 Arreglada</folder>
+	<filename>q6FlipUp_358.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\6 Arreglada\q6FlipUp_358.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Excavadora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>103</ymin>
+			<xmax>497</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6 Arreglada</folder>
+	<filename>t4FlipUp_1372.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\6 Arreglada\t4FlipUp_1372.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Excavadora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>77</ymin>
+			<xmax>488</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>
