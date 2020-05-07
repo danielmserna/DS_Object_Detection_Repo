@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>a8FlipHor_287.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\a8FlipHor_287.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>195</ymin>
+			<xmax>497</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

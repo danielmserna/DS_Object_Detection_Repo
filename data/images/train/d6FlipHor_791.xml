@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>d6FlipHor_791.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\d6FlipHor_791.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>271</ymin>
+			<xmax>481</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
