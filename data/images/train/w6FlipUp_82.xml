@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6 Arreglada</folder>
+	<filename>w6FlipUp_82.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\6 Arreglada\w6FlipUp_82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cuatrimoto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>70</ymin>
+			<xmax>496</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>
