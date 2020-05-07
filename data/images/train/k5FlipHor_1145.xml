@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>k5FlipHor_1145.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\k5FlipHor_1145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>144</ymin>
+			<xmax>500</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>352</ymin>
+			<xmax>467</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

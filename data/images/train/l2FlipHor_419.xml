@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>l2FlipHor_419.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\l2FlipHor_419.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>250</ymin>
+			<xmax>445</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>151</ymin>
+			<xmax>497</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

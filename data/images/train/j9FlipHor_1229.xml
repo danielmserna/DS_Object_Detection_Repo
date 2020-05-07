@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>j9FlipHor_1229.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\j9FlipHor_1229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>178</ymin>
+			<xmax>461</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>
