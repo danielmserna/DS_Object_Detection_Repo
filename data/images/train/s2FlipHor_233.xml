@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>s2FlipHor_233.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\s2FlipHor_233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Excavadora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>54</ymin>
+			<xmax>491</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
