@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>r3FlipBoth_6.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\r3FlipBoth_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Excavadora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>174</ymin>
+			<xmax>394</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

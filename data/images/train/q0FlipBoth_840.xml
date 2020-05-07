@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>q0FlipBoth_840.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\q0FlipBoth_840.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Excavadora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>114</ymin>
+			<xmax>495</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
