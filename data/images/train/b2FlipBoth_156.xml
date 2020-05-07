@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>b2FlipBoth_156.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\b2FlipBoth_156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>91</ymin>
+			<xmax>462</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
