@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6 Arreglada</folder>
+	<filename>d5FlipUp_940.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\6 Arreglada\d5FlipUp_940.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>251</ymin>
+			<xmax>278</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>100</ymin>
+			<xmax>500</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>
