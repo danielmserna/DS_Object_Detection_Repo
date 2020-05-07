@@ -1,0 +1,38 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>k5FlipBoth_1146.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\k5FlipBoth_1146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>145</ymin>
+			<xmax>474</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>347</ymin>
+			<xmax>437</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

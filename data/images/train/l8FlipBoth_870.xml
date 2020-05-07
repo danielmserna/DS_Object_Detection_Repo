@@ -1,0 +1,38 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>l8FlipBoth_870.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\l8FlipBoth_870.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>212</ymin>
+			<xmax>178</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>223</ymin>
+			<xmax>382</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>
