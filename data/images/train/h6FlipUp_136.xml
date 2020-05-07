@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6 Arreglada</folder>
+	<filename>h6FlipUp_136.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\6 Arreglada\h6FlipUp_136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>130</ymin>
+			<xmax>476</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

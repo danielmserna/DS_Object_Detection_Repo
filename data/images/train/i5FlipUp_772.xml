@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6 Arreglada</folder>
+	<filename>i5FlipUp_772.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\6 Arreglada\i5FlipUp_772.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>119</ymin>
+			<xmax>409</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6 Arreglada</folder>
+	<filename>g0FlipUp_334.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\6 Arreglada\g0FlipUp_334.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>144</ymin>
+			<xmax>441</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>
