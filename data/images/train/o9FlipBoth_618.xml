@@ -1,0 +1,38 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>o9FlipBoth_618.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\o9FlipBoth_618.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>27</ymin>
+			<xmax>467</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>60</ymin>
+			<xmax>277</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>n6FlipBoth_492.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\n6FlipBoth_492.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>160</ymin>
+			<xmax>456</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
