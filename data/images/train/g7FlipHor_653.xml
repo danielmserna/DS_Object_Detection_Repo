@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>g7FlipHor_653.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\g7FlipHor_653.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>116</ymin>
+			<xmax>484</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
