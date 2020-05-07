@@ -1,0 +1,26 @@
+<annotation>
+	<folder>EscalaDeGrises</folder>
+	<filename>y2.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\EscalaDeGrises\y2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cuatrimoto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>65</ymin>
+			<xmax>461</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
