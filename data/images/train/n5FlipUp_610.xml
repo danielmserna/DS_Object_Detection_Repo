@@ -1,0 +1,50 @@
+<annotation>
+	<folder>6 Arreglada</folder>
+	<filename>n5FlipUp_610.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\6 Arreglada\n5FlipUp_610.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>133</ymin>
+			<xmax>216</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>199</ymin>
+			<xmax>361</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>313</ymin>
+			<xmax>470</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
