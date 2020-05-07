@@ -1,0 +1,26 @@
+<annotation>
+	<folder>EscalaDeGrises</folder>
+	<filename>r9.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\EscalaDeGrises\r9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Excavadora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>82</ymin>
+			<xmax>485</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>
