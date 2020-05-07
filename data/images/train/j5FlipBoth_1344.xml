@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4 arreglada</folder>
+	<filename>j5FlipBoth_1344.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\4 arreglada\j5FlipBoth_1344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>176</ymin>
+			<xmax>500</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>
