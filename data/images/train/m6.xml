@@ -1,0 +1,38 @@
+<annotation>
+	<folder>EscalaDeGrises</folder>
+	<filename>m6.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\EscalaDeGrises\m6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>170</ymin>
+			<xmax>250</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buzo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>79</ymin>
+			<xmax>492</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
