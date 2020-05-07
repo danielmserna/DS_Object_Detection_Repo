@@ -1,0 +1,26 @@
+<annotation>
+	<folder>EscalaDeGrises</folder>
+	<filename>d3image_854.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\EscalaDeGrises\d3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>69</ymin>
+			<xmax>487</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
