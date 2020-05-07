@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>y2FlipHor_1499.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\y2FlipHor_1499.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cuatrimoto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>76</ymin>
+			<xmax>465</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5 Arreglada</folder>
+	<filename>u6FlipHor_179.jpg</filename>
+	<path>C:\Users\Personal\Downloads\DMS UAO\5 Arreglada\u6FlipHor_179.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cuatrimoto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>47</ymin>
+			<xmax>318</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cuatrimoto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>294</ymin>
+			<xmax>477</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>
